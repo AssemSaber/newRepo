@@ -6,3 +6,6 @@ edit 2
 sixth
 seventh
 new feature playing
+detect one
+detect two
+detect three
