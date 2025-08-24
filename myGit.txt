@@ -3,4 +3,6 @@ second line
 third line
 edit 1
 edit 2
+sixth
+seventh
 new feature playing
