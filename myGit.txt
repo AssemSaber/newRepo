@@ -13,3 +13,5 @@ detect two
 detect three
 ML friend-1
 ML friend-1
+log out 
+log out
