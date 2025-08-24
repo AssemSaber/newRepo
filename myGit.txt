@@ -8,3 +8,6 @@ seventh
 new feature playing
 log out
 authentication
+detect one
+detect two
+detect three
